@@ -1,0 +1,8 @@
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\Emolod\Em7\c_sharp_proj\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
